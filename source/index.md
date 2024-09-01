@@ -10,7 +10,8 @@ Hi, I'm Nathaniel Na and I'm from San Jose, California. I love to listen, play, 
 
 ## Blog posts
 
-You can my posts down below or by visiting {ref}`blog-posts`. Have fun!
+You can view my posts down below or by visiting {ref}`blog-posts`. Have fun!
+<!-- Here is an atom feed {ref}`blog-feed`. -->
 
 ```{postlist}
 :excerpts:

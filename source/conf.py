@@ -46,7 +46,7 @@ html_favicon = "_static/icon.png"
 html_sidebars = {
     "**": [
         "navbar-logo.html",
-        "search-field.html",
+        "searchbox.html",
         "sbt-sidebar-nav.html",
         "ablog/postcard.html",
         "ablog/recentposts.html",

@@ -3,11 +3,12 @@ date: 2024-09-01
 tags: [music, trial]
 ---
 
+
 # My First Post
 A sample trial post.
 
 
-## $\LaTeX$ Try
+## $\LaTeX$
 Here is an attempt to write musical notation with $\LaTeX$.
 
 $$
@@ -15,5 +16,6 @@ $$
 $$
 
 
-## SVG Try
+## SVG
+Here is a attempt of importing a .svg music score. Can you guess the song? 
 ![Alt text](../../source/images/happy-birthday/ending.svg)

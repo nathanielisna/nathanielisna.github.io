@@ -5,8 +5,8 @@ Hi, I'm Nathaniel Na and I'm from San Jose, California. I love to listen, play, 
 
 ## Contact me
 
+- Email: <a href="mailto:nathanielyhna@gmail.com">nathanielyhna@gmail.com</a>
 - Github: https://github.com/nathanielisna
-- Linkedin: (?)
 
 ## Blog posts
 

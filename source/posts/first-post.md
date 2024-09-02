@@ -1,6 +1,6 @@
 ---
 date: 2024-09-01
-tags: [music, trial]
+tags: [trial]
 ---
 
 
@@ -18,4 +18,4 @@ $$
 
 ## SVG
 Here is a attempt of importing a .svg music score. Can you guess the song? 
-![Alt text](../../source/images/happy-birthday/ending.svg)
+![Happy Birthday Ending](../../source/images/ending.svg)

@@ -7,9 +7,12 @@ tags: [Happy Birthday]
 # Day 1: Happy Birthday - Walter Rodriguez Jr
 In the following few posts, I will be transcribing this short clip of [Walter Rodriguez Jr](https://www.youtube.com/channel/UC5ENzBQbIGxHdjP-N1ZQgMA) playing his arrangement of the traditional tune of Happy Birthday. In each of the following posts, I will be transcribing two to three measures and analyzing them.
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zKlmrjApjlg?si=_S-EgEFcFDQ68SMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div align="center" style="position: relative; width: 100%; aspect-ratio: 16/9;">
+  <iframe src="https://www.youtube-nocookie.com/embed/zKlmrjApjlg?si=_S-EgEFcFDQ68SMQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="YouTube video player"></iframe>
 </div>
+
+
+
 
 
 ## Measures 1 and 2

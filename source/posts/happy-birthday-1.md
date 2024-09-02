@@ -23,3 +23,21 @@ This version of Happy Birthday is in the key of $\text{G}$ major and begins on t
 The bass naturally works transitioning to $\text{Gmaj}11$ because of the walking bass. This appears to look like a resolution to the tonic $\text{I}$, however it sounds no where near resolved. $\text{Gmaj}11$, instead, can also be written as a $\text{D9}(\flat7)/\text{G}$ which is the $\text{V}$ in $\text{G}$ major. This denotation makes more sense in this context. The next chord $\text{D}/\text{F}\sharp$ is also still the $\text{V}$ but part of the walking bass.
 
 This measure ends with a $\text{Em}9$ which I'm personally not sure why it works. To me it sounds like it serves a similar purpose to the $\text{V}$ chord and perhaps it is a $\text{V}$ chord on some inversion.
+
+
+<!--https://giscus.app/-->
+<script src="https://giscus.app/client.js"
+        data-repo="nathanielisna/nathanielisna.github.io"
+        data-repo-id="R_kgDOMrKWXQ"
+        data-category="General"
+        data-category-id="DIC_kwDOMrKWXc4CiJ00"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -19,3 +19,20 @@ $$
 ## SVG
 Here is a attempt of importing a .svg music score. Can you guess the song? 
 ![Happy Birthday Ending](../../source/images/ending.svg)
+
+<!--https://giscus.app/-->
+<script src="https://giscus.app/client.js"
+        data-repo="nathanielisna/nathanielisna.github.io"
+        data-repo-id="R_kgDOMrKWXQ"
+        data-category="General"
+        data-category-id="DIC_kwDOMrKWXc4CiJ00"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -9,7 +9,7 @@ A sample trial post.
 
 
 ## $\LaTeX$
-Here is an attempt to write musical notation here is meeeee with $\LaTeX$.
+Here is an attempt to write musical notation with $\LaTeX$.
 
 $$
 \text{B}\flat6\left(\small{\sharp 5}\,^{\sharp 7}_{\sharp 9}\right)

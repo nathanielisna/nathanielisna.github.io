@@ -8,7 +8,7 @@ tags: [jazz, four-way-voicing, music-club-2425]
 Today I spent like four hours creating music club slides on four part harmony... It took too much time than it should so i probably will have to figure out a more efficient way to write these slides. On the plus side, I was able to create really high quality slides and music files. 
 
 
-## Slides
+## Idea Source
 I started this by finding this video by the amazing Youtuber [Music With Myles](https://www.youtube.com/@MusicWithMyles). I really dig his videos as his videos are just top notch material and the speaking pace with the background beat is also amazing. I really hope to see more of his videos even though he had stopped posting for a while recently.
 <div align="center" style="position: relative; width: 100%; aspect-ratio: 16/9;">
   <iframe src="https://www.youtube.com/embed/TTNhx2ZdWdI?si=F26aXjJrkWJ6VGT6" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="YouTube video player"></iframe>

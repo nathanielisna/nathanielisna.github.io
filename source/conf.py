@@ -55,13 +55,6 @@ html_sidebars = {
         "ablog/archives.html",
     ]
 }
-html_js_files = [
-    'https://www.googletagmanager.com/gtag/js?id=G-6J5WRNVKKL',
-]
-html_context = {
-    'google_analytics_id': 'G-6J5WRNVKKL',  # Your Google Analytics ID
-}
-
 html_css_files = [
     "index.css",
 ]
@@ -81,6 +74,7 @@ html_theme_options = {
     #        },
     #    ],
 }
+templates_path = ['_templates']
 
 # ABlog
 blog_title = project
@@ -91,15 +85,3 @@ blog_baseurl = "https://nathanielisna.github.io"
 # Myst configuration
 myst_heading_anchors = 3
 myst_linkify_fuzzy_links = False
-
-def setup(app):
-    app.add_js_file('https://www.googletagmanager.com/gtag/js?id=G-6J5WRNVKKL')
-    app.add_config_value('google_analytics_id', '', 'html')
-    app.add_js_file(None, body="""
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-6J5WRNVKKL');
-    </script>
-    """)
